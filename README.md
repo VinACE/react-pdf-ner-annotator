@@ -11,6 +11,7 @@ A React component to annotate named entities directly onto a PDF.
 
 ## Installation
 The package can be installed through NPM.
+ npm i react-scripts
 
 ``npm install react-pdf-ner-annotator``
 
